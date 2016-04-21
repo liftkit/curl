@@ -1,0 +1,18 @@
+{
+	"name": "liftkit/url",
+	"description": "LiftKit cURL library",
+	"license": "LGP-2.1",
+	"authors": [
+		{
+			"name": "Ryan Williams",
+			"email": "rwilliams@stream9.net",
+			"homepage": "https://www.stream9.net",
+			"role": "Developer"
+		}
+	],
+	"autoload": {
+		"psr-4": {
+			"LiftKit\\": "src/"
+		}
+	}
+}
