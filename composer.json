@@ -1,5 +1,5 @@
 {
-	"name": "liftkit/url",
+	"name": "liftkit/curl",
 	"description": "LiftKit cURL library",
 	"license": "LGP-2.1",
 	"authors": [
